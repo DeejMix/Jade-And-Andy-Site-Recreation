@@ -65,3 +65,7 @@ header {
 #find-us-tab {
   background-image: url("https://static.wixstatic.com/media/1e47b2_0d6c77b5ffd04c0e92f186a8193c3e3c.jpg/v1/fill/w_245,h_138,al_c,q_80,usm_0.66_1.00_0.01,blur_2/1e47b2_0d6c77b5ffd04c0e92f186a8193c3e3c.jpg");
 }
+#find-us-inner {
+  background: white;
+  
+}
