@@ -1,0 +1,67 @@
+#login_image {
+  border: 1px solid black;
+  width: 25px;
+  border-radius: 15px;
+}
+header {
+  background: #2e2e2e;
+  width: 100%;
+  position: sticky;
+  top: 0px;
+  z-index: 3;
+}
+
+.horizontal_line {
+  border: 2px solid whitesmoke;
+  width: 20px;
+}
+.horizontal_line_black {
+  border: 2px solid black;
+  width: 20px;
+}
+#jade_and_andy, #vintage_car_specialist {
+  font-family: Futura;
+}
+#vintage_car_specialist {
+  letter-spacing: 0.19em;
+}
+#services_section {
+  background-image: url("https://photos.smugmug.com/JCS-High-School/NewberryMathTechnology/19-20-Coding/Morris/i-pqXfdCd/0/3d877271/Th/fuzzy_grey_background-Th.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+}
+.circle {
+  height: 100px;
+  width: 100px;
+  border-radius: 100px;
+}
+#wrenches {
+  border-radius: 53px;
+}
+#title {
+  background-image: url("https://photos.smugmug.com/JCS-High-School/NewberryMathTechnology/19-20-Coding/Morris/i-TVmLLxL/0/aef795ce/S/car_background-S.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-top: 200px;
+
+  margin-bottom: -24px;
+  
+}
+#jade_and_andy {
+  color: whitesmoke;
+}
+#about-us-wrapper {
+  background-image: url("https://static.wixstatic.com/media/1e47b2_0d6c77b5ffd04c0e92f186a8193c3e3c.jpg/v1/fill/w_245,h_138,al_c,q_80,usm_0.66_1.00_0.01,blur_2/1e47b2_0d6c77b5ffd04c0e92f186a8193c3e3c.jpg");
+  background-size: cover;
+}
+#about-us {
+  font-family: Futura;
+  
+}
+#about-us {
+  text-align: center;
+}
+#find-us-tab {
+  background-image: url("https://static.wixstatic.com/media/1e47b2_0d6c77b5ffd04c0e92f186a8193c3e3c.jpg/v1/fill/w_245,h_138,al_c,q_80,usm_0.66_1.00_0.01,blur_2/1e47b2_0d6c77b5ffd04c0e92f186a8193c3e3c.jpg");
+}
